@@ -9,4 +9,9 @@ class NamaProgram {
 		panjang = scan.nextInt();
 		 lebar = scan.nextInt();
     }
+	public static void cariLuasLingkaran(){
+		int jarijari;
+		
+		jarijari =scan.nextInt();
+	}
 }
