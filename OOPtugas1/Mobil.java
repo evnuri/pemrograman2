@@ -9,7 +9,11 @@ public class Mobil{
 	float rem = kecepatan/2;
 	
 	void start(){
-		System.out.println("jalankan mobil"+ nama);
+		System.out.println("Jalankan mobil"+ nama);
 	}	
+	
+	void stop(){
+		System.out.println("Mobil berhenti Kecepatan "+ kecstop);
+	}
 }
 	
